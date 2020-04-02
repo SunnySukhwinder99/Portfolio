@@ -34,9 +34,7 @@
             </div>
         </nav>
         <main>
-            <h1><?php echo "Hello";
-            $ echo '{}' > composer.json;
-            ?></h1>
+
         </main>
         <footer></footer>
     </div>
