@@ -33,7 +33,9 @@
                 </ul>
             </div>
         </nav>
-        <main></main>
+        <main>
+            <h1><?php echo "Hello" ?></h1>
+        </main>
         <footer></footer>
     </div>
 </body>
