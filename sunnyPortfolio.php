@@ -1,6 +1,6 @@
 <?php ?>
 
-<!DOCTYPE html>
+<!DOCTYPE>
 <html lang="en">
 
 <head>
